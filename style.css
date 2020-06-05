@@ -1,0 +1,12 @@
+.header{
+    background-color: cadetblue;
+    display: flex;
+    justify-content:space-between;
+}
+h1{
+    color:rgb(rgb(124, 124, 124), green, blue);
+}
+body{
+    background-color: aqua;
+}
+
